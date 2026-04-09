@@ -1,7 +1,10 @@
 # gitproject-
 
 Bonjour ! Bienvenue sur notre Projet d'études de git.
-Notre équipe est composée des super élèves BATISTA DOS SANTOS Kevin ainsi que NAITDJOUDI Zedjiga.
+Notre équipe est composée de super élèves BATISTA DOS SANTOS Kevin ainsi que NAIT DJOUDI Zedjiga.
+Pour cloner notre repo on fait un petit `git clone` avec soit un bon ssh soit https (moins bien en vrai)
+Ensuite vous êtes libre de toucher à tout ce que vous souhaitez de notre projet.
+Have Fun !
 <br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
